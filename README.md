@@ -298,7 +298,3 @@ Or use VS Code / JupyterLab to open the `.ipynb` file.
 ## Conclusion
 
 This project delivers a complete, reproducible, portfolio-quality Data Analytics and Predictive Analytics solution. It answers 10 measurable business questions, builds a validated Logistic Regression classifier with ~87% test accuracy, and translates results into 6 actionable business recommendations. The interactive Streamlit dashboard makes the findings accessible to business stakeholders without requiring technical knowledge.
-
----
-
-*Project created for the AICTE | IBM SkillsBuild Data Analytics with AI Internship.*
