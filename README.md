@@ -216,6 +216,28 @@ The Streamlit dashboard (`app.py`) contains 6 interactive sections:
 
 ---
 
+## Dashboard Screenshots
+
+### 1. Executive Overview
+
+![Executive Overview](01_Executive_Overview.PNG)
+
+### 2. Passenger Analysis
+
+![Passenger Analysis](02_Passenger_Analysis.PNG)
+
+### 3. Service Experience
+
+![Service Experience](03_Service_Experience.PNG)
+
+### 4. Operational Analysis
+
+![Operational Analysis](04_Operational_Analysis.PNG)
+
+> The screenshots above provide a visual overview of the interactive Streamlit dashboard and its key analytical sections.
+
+---
+
 ## Project Structure
 
 ```
